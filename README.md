@@ -16,15 +16,15 @@ The report analyzes sales performance for TopCars Co. Ltd through interactive da
 - Interactive dashboard design
 
 ## Report Pages
-1. Sales Summary Dashboard
+1. Sales Summary
 2. Manufacturer Analysis
 3. Sales Performance Analysis
 4. Salesperson Analysis
 
 ## Tools Used
 - Microsoft Power BI
-- DAX
 - Power Query
+- DAX
 - Data Modeling
 
 ## Project Type
